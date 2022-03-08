@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 .env
+=======
+git rm --cached .env
+>>>>>>> e7f25f60276d913244975e53d62f75fe14aa2d2e
